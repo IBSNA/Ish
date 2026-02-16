@@ -1,9 +1,5 @@
 <h3 align="center">Welcome to my profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibsna&label=Profile%20views&color=0e75b6&style=flat" alt="ibsna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibsna" alt="ibsna" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishbuxsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishbuxsh" height="30" width="40" /></a>
